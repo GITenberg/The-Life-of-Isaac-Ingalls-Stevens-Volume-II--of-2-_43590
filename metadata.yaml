@@ -1,0 +1,30 @@
+_repo: The-Life-of-Isaac-Ingalls-Stevens-Volume-II--of-2-_43590
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43590-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stevens, Hazard
+    birthdate: 1842
+    deathdate: 1918
+    gutenberg_agent_id: '42318'
+    url: http://www.gutenberg.org/2009/agents/42318
+description: ''
+gutenberg_issued: '2013-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'F850.5'
+- !lcsh 'Stevens, Isaac Ingalls, 1818-1862'
+- !lcsh 'Pacific Coast Indians, Wars with, 1847-1865'
+- !lcsh 'Northwest, Pacific -- History'
+- !lcsh 'Mexican War, 1846-1848 -- Personal narratives'
+title: The Life of Isaac Ingalls Stevens, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/43590
